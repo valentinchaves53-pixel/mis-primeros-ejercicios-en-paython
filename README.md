@@ -7,5 +7,6 @@ Ejercicios que hice mientras aprendo Python.
 - adivina.py: juego de adivinar el número con pistas (usa while, if y elif).
 
 ## Cómo ejecutarlos
+
 python hola.py
 python adivina.py
